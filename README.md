@@ -1,1 +1,2 @@
 # CryptoTrack
+CryptoTrack is a SwiftUI-based iOS app for managing real-time cryptocurrency portfolios. It fetches live price data from the CoinGecko API, allows users to track holdings, and supports offline persistence using CoreData. With features like coin search, filtering, and sorting powered by Combine and async data flows, the app demonstrates safe concurrency and MVVM architecture in a production-style, multi-threaded UI environment.
